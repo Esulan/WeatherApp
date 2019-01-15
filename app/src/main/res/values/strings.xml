@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="top_text">Top Page</string>
+    <string name="humidity_text">湿度計</string>
+    <string name="temperature_text">温度計</string>
+    <string name="wait">しばらくお待ちください...</string>
+</resources>
